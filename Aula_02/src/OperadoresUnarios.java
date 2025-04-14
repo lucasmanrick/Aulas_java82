@@ -26,7 +26,6 @@ public class OperadoresUnarios {
 		System.out.println("\nPré Decrementar: z = -- w");
  
 		z = -- w;
-//		teste testestsetset
  
 		System.out.println("\nValor de Z: " + z);
 		System.out.println("\nValor de W: " + w);
