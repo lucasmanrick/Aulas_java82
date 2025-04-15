@@ -29,7 +29,7 @@ public class Variaveis {
 		// Exibição em tela
 		
 		System.out.printf("Constante PI é igual a: %.2f\n", PI); // %.2f serve para determinar que queremos 2 casas depois do ponto (essa forma serve especificamente para mostrar variaveis do tipo double/float.
-		
+		leia.close();
 	}
 
 }

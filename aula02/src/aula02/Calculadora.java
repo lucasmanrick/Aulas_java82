@@ -18,7 +18,7 @@ public class Calculadora {
 		System.out.printf("\n%.2f * %.2f = %.2f", numero_01, numero_02, (numero_01 * numero_02));
 		System.out.printf("\n%.2f / %.2f = %.2f", numero_01, numero_02, (numero_01 / numero_02));
 		System.out.printf("\n%.2f ^ %.2f = %.2f", numero_01, numero_02, Math.pow(numero_01,numero_02));
-		
+		leia.close();
 	}
 
 }
